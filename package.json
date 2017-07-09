@@ -1,0 +1,28 @@
+{
+  "name": "sorceress",
+  "version": "0.1.0",
+  "description": "Minimalistic JavaScript test framework built for the modern era",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kossnocorp/sorceress.git"
+  },
+  "keywords": [
+    "test",
+    "unit",
+    "assert",
+    "spec"
+  ],
+  "author": "Sasha Koss <koss@nocorp.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kossnocorp/sorceress/issues"
+  },
+  "homepage": "https://github.com/kossnocorp/sorceress#readme"
+}
